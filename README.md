@@ -1,1 +1,2 @@
-# Machine_Learning project on KNN classifier to classify the flower, based on sepal length.
+# Machine_Learning project on KNN classifier 
+classifies the flower, based on sepal length.
